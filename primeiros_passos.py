@@ -1,7 +1,4 @@
-def soma(a,b):
-
-    return a+b
-
+import funcoes.py
 
 
 def main():
